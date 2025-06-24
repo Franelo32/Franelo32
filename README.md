@@ -47,8 +47,8 @@ My focus ranges from **secure configuration of web environments and virtualized 
 ### 📊 Estadísticas de GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&hide=stars"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Franelo32&show_icons=true&theme=tokyonight&hide=stars"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franelo32&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
